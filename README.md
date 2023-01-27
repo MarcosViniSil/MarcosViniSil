@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos Vinícius 🤙 
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosViniSil&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosViniSil&theme=dracula)](https://github.com/MarcosViniSil/github-readme-stats)
 
 ### Tecnlogias que estou aprendendo
 
